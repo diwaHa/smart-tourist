@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+googlemaps
+python-dotenv
+google-genai
+Pillow
+langdetect
+python-dotenv

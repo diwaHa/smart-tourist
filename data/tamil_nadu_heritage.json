@@ -1,0 +1,80 @@
+[
+  {
+    "id": "tn-001",
+    "name": "Meenakshi Amman Temple",
+    "city": "Madurai",
+    "district": "Madurai",
+    "coords": {"lat": 9.9197, "lng": 78.1194},
+    "description": "A major historic Hindu temple dedicated to Goddess Meenakshi and Lord Sundareswarar, famous for its towering gopurams and intricate sculpture work.",
+    "stories": [
+      "Legend says Goddess Meenakshi ruled Madurai and married Lord Sundareswarar, symbolizing the union of power and virtue.",
+      "The temple complex has been an important cultural and religious center for over 2500 years."
+    ],
+    "audio": "audio/meenakshi_amman.mp3"
+  },
+  {
+    "id": "tn-002",
+    "name": "Brihadeeswarar Temple",
+    "city": "Thanjavur",
+    "district": "Thanjavur",
+    "coords": {"lat": 10.7864, "lng": 79.1378},
+    "description": "A UNESCO World Heritage site built by Raja Raja Chola I, known for its massive vimana (tower) and Chola-era murals.",
+    "stories": [
+      "Built in the 11th century, the temple is an architectural marvel of the Chola dynasty.",
+      "Local guides often tell stories of the giant bronze Nandi and the temple's sophisticated structural design."
+    ],
+    "audio": "audio/brihadeeswarar.mp3"
+  },
+  {
+    "id": "tn-003",
+    "name": "Shore Temple",
+    "city": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "coords": {"lat": 12.6234, "lng": 80.1920},
+    "description": "A group of structural temples on the Bay of Bengal coast, famous for Pallava rock-cut architecture and coastal views.",
+    "stories": [
+      "The Shore Temple marks the culmination of the Pallava dynasty's rock-cut art and early structural temples.",
+      "Local fishermen sometimes recount sea-storm legends connected to the temple."
+    ],
+    "audio": "audio/shore_temple.mp3"
+  },
+  {
+    "id": "tn-004",
+    "name": "Ranganathaswamy Temple, Srirangam",
+    "city": "Srirangam",
+    "district": "Tiruchirappalli",
+    "coords": {"lat": 10.8665, "lng": 78.6924},
+    "description": "One of the largest functioning Hindu temple complexes in the world, dedicated to Lord Ranganatha (Vishnu).",
+    "stories": [
+      "The temple has a long history of medieval patronage and elaborate festival traditions.",
+      "Many legends tie the temple to the river Kaveri and local devotional poets."
+    ],
+    "audio": "audio/ranganathaswamy.mp3"
+  },
+  {
+    "id": "tn-005",
+    "name": "Hogenakkal Falls",
+    "city": "Hogenakkal",
+    "district": "Dharmapuri",
+    "coords": {"lat": 11.5319, "lng": 77.5236},
+    "description": "A scenic waterfall on the Kaveri river, often called the \"Niagara of India\" for its rocky cascades and coracle rides.",
+    "stories": [
+      "Local folklore speaks of the falls' medicinal waters and the ancient communities that lived nearby.",
+      "Coracle rides are a traditional experience visitors should try with a licensed guide."
+    ],
+    "audio": "audio/hogenakkal.mp3"
+  },
+  {
+    "id": "tn-006",
+    "name": "Velankanni Basilica",
+    "city": "Velankanni",
+    "district": "Nagapattinam",
+    "coords": {"lat": 10.6783, "lng": 79.8406},
+    "description": "A major Christian pilgrimage site known for its 16th-century origins and miracles attributed to Our Lady of Good Health.",
+    "stories": [
+      "Pilgrims from across India come during the annual festival to seek blessings and attend processions.",
+      "The basilica's architecture blends colonial and local styles and has many votive offerings."
+    ],
+    "audio": "audio/velankanni_basilica.mp3"
+  }
+]
